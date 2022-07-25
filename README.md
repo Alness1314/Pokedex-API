@@ -7,9 +7,9 @@
 1. Clonar el repositorio
 2. Ejecutar
 ```
-yarn install
+npm install
 ```
-3. Tener Nest CLI instalado
+3. Tener NestJs CLI instalado
 ```
 npm i -g @nestjs/cli
 ```
@@ -22,4 +22,4 @@ docker-compose up -d
 
 ## Stack usado
 * MongoDB
-* Nest
+* NestJs
